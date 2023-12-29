@@ -22,3 +22,19 @@ a{
     color: white;
     text-decoration: none;
 }
+.bg-blue-my{
+    --tw-bg-opacity: 1;
+    background-color: #043280;
+}
+.bg-blue-my2{
+    --tw-bg-opacity: 1;
+    background-color: #032b6e;
+}
+.bg-blue-my3{
+    --tw-bg-opacity: 1;
+    background-color: #041d49;
+}
+.bg-black-my3{
+    --tw-bg-opacity: 1;
+    background-color: #191919;
+}
